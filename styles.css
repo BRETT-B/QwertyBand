@@ -9,3 +9,11 @@ body, html {
 	height: 100%;
 	margin: 0;
 }
+
+.title {
+	margin: 0 auto;
+	font-size: 22px;
+	color: darkturquoise;
+	text-align: center;
+	background: black;
+}
