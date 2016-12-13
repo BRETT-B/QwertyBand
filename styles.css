@@ -13,7 +13,9 @@ body, html {
 .title {
 	margin: 0 auto;
 	font-size: 22px;
-	color: darkturquoise;
+	font-family: 'Fredericka the Great', cursive;
+	letter-spacing: 1.5px;
+	color: #178BBD;
 	text-align: center;
 	background: black;
 }
